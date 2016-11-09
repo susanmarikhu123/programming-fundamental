@@ -1,8 +1,16 @@
 #include<stdio.h>
 #include<conio.h>
-int main()  {
+int main (){
 
-printf ("susan marikhu");
+printf("susan marikhu");
 getch();
 return 0;
 }
+
+
+
+
+
+
+
+
