@@ -2,7 +2,7 @@
 Student Name :susan  marikhu
 subject : programming fundamental
 Lab No.:06
-Program:write a C program to arithmatic operation.
+Program:write a C program to check positive or negative.
 Date :november 25,2016
 */
 
