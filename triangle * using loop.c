@@ -24,7 +24,7 @@ Date:20 january ,2017
 			
 			
 			 {
-				 printf(" * ");
+				 printf("*");
 			 }
 			
 			}
