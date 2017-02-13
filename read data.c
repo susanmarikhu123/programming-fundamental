@@ -2,7 +2,7 @@
 Student Name:Susan Marikhu
 Subject:Programming Fundamental
 Lab no:26
-Program:Wap to create a file and insert data to it.
+Program:Wap to read data from a file.
 Date: 13 feb  2017
 */
 #include<stdio.h>
